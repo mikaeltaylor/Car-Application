@@ -1,0 +1,9 @@
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\bin\Debug\CarApplication.exe.config
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\obj\Debug\CarApplication.csprojResolveAssemblyReference.cache
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\obj\Debug\CarApplication.CarApplication.resources
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\obj\Debug\CarApplication.Properties.Resources.resources
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.GenerateResource.Cache
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\bin\Debug\CarApplication.exe
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\bin\Debug\CarApplication.pdb
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\obj\Debug\CarApplication.exe
+c:\users\mikae\documents\visual studio 2012\Projects\CarApplication\CarApplication\obj\Debug\CarApplication.pdb

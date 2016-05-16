@@ -1,0 +1,12 @@
+load form
+set speed to 0
+	if submit clicked
+		accept user input for make, model, and year
+		apply user input to appropriate fields
+		update car output label
+	if accelerate clicked
+		add 5 to speed
+		update speed output label
+	if brake clicked
+		subtract 5 from speed
+		update speed output label
